@@ -26,3 +26,5 @@ Este projeto é uma introdução ao uso de **Markdown** para formatar textos no 
 
 Obrigado por ler até aqui! 🙌
 
+
+![image](https://github.com/user-attachments/assets/b9589b46-cf9a-4256-8166-4ee8daa36b33)
