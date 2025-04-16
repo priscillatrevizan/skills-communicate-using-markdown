@@ -44,6 +44,13 @@ console.log("Hello, World!");
 
 python
 print("Hello, World!")
+```
+---
 
+#### Inserção de Tabela:
+
+- [X] Fazer os desafios do GH4W
+- [X] Estudar bastante
+- [ ] Passar no teste GitHub Foundations!
 
 
