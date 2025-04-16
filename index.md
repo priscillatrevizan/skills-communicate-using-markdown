@@ -26,5 +26,24 @@ Este projeto é uma introdução ao uso de **Markdown** para formatar textos no 
 
 Obrigado por ler até aqui! 🙌
 
+----
+
+#### Inserção de Imagem
 
 ![image](https://github.com/user-attachments/assets/b9589b46-cf9a-4256-8166-4ee8daa36b33)
+
+-----
+
+#### Inserção de Código:
+
+Hello World em :
+```javascript
+javascript
+console.log("Hello, World!");
+
+
+python
+print("Hello, World!")
+
+
+
